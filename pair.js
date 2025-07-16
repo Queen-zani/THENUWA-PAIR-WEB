@@ -13,7 +13,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-    async function MALVIN_XD_PAIR_CODE() {
+    async function Qᴜᴇᴇɴ_ᴢᴀɴɪ_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -77,9 +77,9 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "QUEEN-SACHI~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*HEY WELCOME TO THE QUEEN SACHI MD BOT 👋🏼*
+                        let desc = `*HEY WELCOME TO THE QUEEN ᴢᴀɴɪ MD BOT 👋🏼*
 
-*THANKS FOR USING 𝙌𝙐𝙀𝙀𝙉 𝙎𝘼𝘾𝙃𝙄-𝙈𝘿" YOUR SESSION HAS BEEN SUCCESSFULLY...!*
+*THANKS FOR USING 𝙌𝙐𝙀𝙀𝙉 ᴢᴀɴɪ-𝙈𝘿" YOUR SESSION HAS BEEN SUCCESSFULLY...!*
 
 *🧸 SESSION ID : SENT ABOVE*
 *🔐 DO NOT SHARE THIS ID WITH ANYONE...!*
@@ -90,18 +90,18 @@ var randomItem = selectRandomItem(items);
 *https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u*
 
 *📍BOT UPDATE :*
-*JOIN OFFCIAL WHATSAPP GROUP...🧚*
-*https://chat.whatsapp.com/FYsbo9QWv2K6wEjN7plbmg*
+*JOIN OFFCIAL WHATSAPP channel...🧚*
+*https://whatsapp.com/channel/0029Vb6pI1VBqbrIwyeZr12t*
 
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʀᴀᴠɪ 💥`; 
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴢᴀɴɪ💥`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
 title: "🕊️⃝ 𝓚 ɪɴɢ ʀᴀᴠɪ-ᴛᴇᴄʜ⟷💥",
 thumbnailUrl: "https://files.catbox.moe/jezqx4.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6pI1VBqbrIwyeZr12t",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -110,9 +110,9 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*HEY WELCOME TO THE QUEEN SACHI MD BOT 👋🏼*
+                            let desc = `*HEY WELCOME TO THE QUEEN ᴢᴀɴɪ MD BOT 👋🏼*
 
-*THANKS FOR USING 𝙌𝙐𝙀𝙀𝙉 𝙎𝘼𝘾𝙃𝙄-𝙈𝘿" YOUR SESSION HAS BEEN SUCCESSFULLY...!*
+*THANKS FOR USING 𝙌𝙐𝙀𝙀𝙉 ᴢᴀɴɪ-𝙈𝘿" YOUR SESSION HAS BEEN SUCCESSFULLY...!*
 
 *🧸 SESSION ID : SENT ABOVE*
 *🔐 DO NOT SHARE THIS ID WITH ANYONE...!*
@@ -127,13 +127,13 @@ renderLargerThumbnail: true
 *https://chat.whatsapp.com/FYsbo9QWv2K6wEjN7plbmg*
 
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʀᴀᴠɪ 💥`;
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴢᴀɴɪ💥`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "🕊️⃝ 𝓚 ɪɴɢ ʀᴀᴠɪ-ᴛᴇᴄʜ⟷💥",
-thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
+title: "🕊️⃝ᴘᴏᴡᴇʀᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴢᴀɴɪ💥",
+thumbnailUrl: "https://i.ibb.co/xq67sDPp/Queen-Rashu-Md.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vag1WQFJf05dF0pQeU3u",
 mediaType: 2,
 renderLargerThumbnail: true,
@@ -162,7 +162,7 @@ showAdAttribution: true
             }
         }
     }
-   return await MALVIN_XD_PAIR_CODE();
+   return await QᴜᴇᴇN_ᴢᴀɴɪ_PAIR_CODE();
 });/*
 setInterval(() => {
     console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
